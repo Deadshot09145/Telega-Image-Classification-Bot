@@ -1,0 +1,5 @@
+0 Mashina
+1 Avtobus
+2 Gruzovik
+3 Velik
+4 Moto
